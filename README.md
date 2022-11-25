@@ -1,7 +1,7 @@
 # Keyboard-PCB
  Keyboard PCB Including F1-F24 & arduino with attached encoders & OLED screen
 
-![image](https://user-images.githubusercontent.com/31356222/204018447-56d170ef-e58a-4541-87a8-dc0ef5a1fe3d.png)
+![image](https://user-images.githubusercontent.com/31356222/204057775-97dfd7e3-d206-4951-9d16-99a3c1c8773c.png)
 http://www.keyboard-layout-editor.com/#/gists/6a09a1fa51d7aa38f726f7da2f79e6d3
 
 Special parts include:
