@@ -389,7 +389,7 @@ Wire Wire Line
 Wire Wire Line
 	9400 2450 9950 2450
 $Comp
-L random-keyboard-parts:Molex-0548190589 USB1
+L Keyboard_PCB-rescue:Molex-0548190589-random-keyboard-parts USB1
 U 1 1 637FD431
 P 9150 3900
 F 0 "USB1" V 9687 3867 60  0000 C CNN
@@ -470,7 +470,7 @@ Wire Wire Line
 Wire Wire Line
 	9450 3800 9600 3800
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_esc1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_esc1
 U 1 1 6380D645
 P 1300 1250
 F 0 "SW_esc1" H 1333 1473 60  0000 C CNN
@@ -496,7 +496,7 @@ Wire Wire Line
 Wire Wire Line
 	1250 1450 1250 1400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_F13
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_F13
 U 1 1 63814163
 P 1800 1250
 F 0 "SW_F13" H 1833 1473 60  0000 C CNN
@@ -522,7 +522,7 @@ Wire Wire Line
 Wire Wire Line
 	1750 1450 1750 1400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_`1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_`1
 U 1 1 63817625
 P 1300 2000
 F 0 "SW_`1" H 1333 2223 60  0000 C CNN
@@ -548,7 +548,7 @@ Wire Wire Line
 Wire Wire Line
 	1250 2200 1250 2150
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_1
 U 1 1 63819A04
 P 1800 2000
 F 0 "SW_1" H 1833 2223 60  0000 C CNN
@@ -612,7 +612,7 @@ Wire Wire Line
 	2000 1000 2000 1200
 Connection ~ 2000 1200
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_F14
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_F14
 U 1 1 6381D519
 P 2300 1250
 F 0 "SW_F14" H 2333 1473 60  0000 C CNN
@@ -650,7 +650,7 @@ COL2
 Wire Wire Line
 	2500 1000 2500 1200
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_F15
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_F15
 U 1 1 63883915
 P 2800 1250
 F 0 "SW_F15" H 2833 1473 60  0000 C CNN
@@ -682,7 +682,7 @@ COL3
 Wire Wire Line
 	3000 1000 3000 1200
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_F16
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_F16
 U 1 1 6388890C
 P 3300 1250
 F 0 "SW_F16" H 3333 1473 60  0000 C CNN
@@ -714,7 +714,7 @@ COL4
 Wire Wire Line
 	3500 1000 3500 1200
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_F17
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_F17
 U 1 1 6388BE74
 P 3800 1250
 F 0 "SW_F17" H 3833 1473 60  0000 C CNN
@@ -746,7 +746,7 @@ COL5
 Wire Wire Line
 	4000 1000 4000 1200
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_F18
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_F18
 U 1 1 6388F7AF
 P 4300 1250
 F 0 "SW_F18" H 4333 1473 60  0000 C CNN
@@ -778,7 +778,7 @@ COL6
 Wire Wire Line
 	4500 1000 4500 1200
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_F19
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_F19
 U 1 1 63892B2A
 P 4800 1250
 F 0 "SW_F19" H 4833 1473 60  0000 C CNN
@@ -810,7 +810,7 @@ COL7
 Wire Wire Line
 	5000 1000 5000 1200
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_F20
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_F20
 U 1 1 638E4CE5
 P 5300 1250
 F 0 "SW_F20" H 5333 1473 60  0000 C CNN
@@ -842,7 +842,7 @@ COL8
 Wire Wire Line
 	5500 1000 5500 1200
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_F21
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_F21
 U 1 1 638E8A02
 P 5800 1250
 F 0 "SW_F21" H 5833 1473 60  0000 C CNN
@@ -874,7 +874,7 @@ COL9
 Wire Wire Line
 	6000 1000 6000 1200
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_F22
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_F22
 U 1 1 638EC4AB
 P 6300 1250
 F 0 "SW_F22" H 6333 1473 60  0000 C CNN
@@ -906,7 +906,7 @@ COL10
 Wire Wire Line
 	6500 1000 6500 1200
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_F23
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_F23
 U 1 1 638F0210
 P 6800 1250
 F 0 "SW_F23" H 6833 1473 60  0000 C CNN
@@ -938,7 +938,7 @@ COL11
 Wire Wire Line
 	7000 1000 7000 1200
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_F24
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_F24
 U 1 1 638F406F
 P 7300 1250
 F 0 "SW_F24" H 7333 1473 60  0000 C CNN
@@ -993,7 +993,7 @@ ROW2
 Wire Wire Line
 	950  3200 1050 3200
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_caps1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_caps1
 U 1 1 6390A10B
 P 1300 3500
 F 0 "SW_caps1" H 1333 3723 60  0000 C CNN
@@ -1025,7 +1025,7 @@ ROW3
 Wire Wire Line
 	950  3950 1050 3950
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_shift1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_shift1
 U 1 1 639108E4
 P 1300 4250
 F 0 "SW_shift1" H 1333 4473 60  0000 C CNN
@@ -1057,7 +1057,7 @@ ROW4
 Wire Wire Line
 	950  4700 1050 4700
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_ctrl1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_ctrl1
 U 1 1 63922092
 P 1300 5050
 F 0 "SW_ctrl1" H 1333 5273 60  0000 C CNN
@@ -1089,7 +1089,7 @@ ROW5
 Wire Wire Line
 	950  5500 1050 5500
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_2
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_2
 U 1 1 639446A3
 P 2300 2000
 F 0 "SW_2" H 2333 2223 60  0000 C CNN
@@ -1117,7 +1117,7 @@ Wire Wire Line
 Wire Wire Line
 	2500 1950 2450 1950
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_3
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_3
 U 1 1 639446B3
 P 2800 2000
 F 0 "SW_3" H 2833 2223 60  0000 C CNN
@@ -1145,7 +1145,7 @@ Wire Wire Line
 Wire Wire Line
 	3000 1950 2950 1950
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_4
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_4
 U 1 1 639446C3
 P 3300 2000
 F 0 "SW_4" H 3333 2223 60  0000 C CNN
@@ -1173,7 +1173,7 @@ Wire Wire Line
 Wire Wire Line
 	3500 1950 3450 1950
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_5
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_5
 U 1 1 639446D3
 P 3800 2000
 F 0 "SW_5" H 3833 2223 60  0000 C CNN
@@ -1201,7 +1201,7 @@ Wire Wire Line
 Wire Wire Line
 	4000 1950 3950 1950
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_6
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_6
 U 1 1 639446E3
 P 4300 2000
 F 0 "SW_6" H 4333 2223 60  0000 C CNN
@@ -1229,7 +1229,7 @@ Wire Wire Line
 Wire Wire Line
 	4500 1950 4450 1950
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_7
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_7
 U 1 1 639446F3
 P 4800 2000
 F 0 "SW_7" H 4833 2223 60  0000 C CNN
@@ -1257,7 +1257,7 @@ Wire Wire Line
 Wire Wire Line
 	5000 1950 4950 1950
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_8
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_8
 U 1 1 63944703
 P 5300 2000
 F 0 "SW_8" H 5333 2223 60  0000 C CNN
@@ -1285,7 +1285,7 @@ Wire Wire Line
 Wire Wire Line
 	5500 1950 5450 1950
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_9
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_9
 U 1 1 63944713
 P 5800 2000
 F 0 "SW_9" H 5833 2223 60  0000 C CNN
@@ -1313,7 +1313,7 @@ Wire Wire Line
 Wire Wire Line
 	6000 1950 5950 1950
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_0
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_0
 U 1 1 63944723
 P 6300 2000
 F 0 "SW_0" H 6333 2223 60  0000 C CNN
@@ -1341,7 +1341,7 @@ Wire Wire Line
 Wire Wire Line
 	6500 1950 6450 1950
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_-1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_-1
 U 1 1 63944733
 P 6800 2000
 F 0 "SW_-1" H 6833 2223 60  0000 C CNN
@@ -1369,7 +1369,7 @@ Wire Wire Line
 Wire Wire Line
 	7000 1950 6950 1950
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_=1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_=1
 U 1 1 63944743
 P 7300 2000
 F 0 "SW_=1" H 7333 2223 60  0000 C CNN
@@ -1397,7 +1397,7 @@ Wire Wire Line
 Wire Wire Line
 	7500 1950 7450 1950
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_Del1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_Del1
 U 1 1 63944753
 P 7800 2000
 F 0 "SW_Del1" H 7833 2223 60  0000 C CNN
@@ -1423,7 +1423,7 @@ Wire Wire Line
 Wire Wire Line
 	7750 2200 7750 2150
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_w1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_w1
 U 1 1 6395A370
 P 2300 2750
 F 0 "SW_w1" H 2333 2973 60  0000 C CNN
@@ -1451,7 +1451,7 @@ Wire Wire Line
 Wire Wire Line
 	2500 2700 2450 2700
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_e1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_e1
 U 1 1 6395A380
 P 2800 2750
 F 0 "SW_e1" H 2833 2973 60  0000 C CNN
@@ -1479,7 +1479,7 @@ Wire Wire Line
 Wire Wire Line
 	3000 2700 2950 2700
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_r1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_r1
 U 1 1 6395A390
 P 3300 2750
 F 0 "SW_r1" H 3333 2973 60  0000 C CNN
@@ -1507,7 +1507,7 @@ Wire Wire Line
 Wire Wire Line
 	3500 2700 3450 2700
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_t1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_t1
 U 1 1 6395A3A0
 P 3800 2750
 F 0 "SW_t1" H 3833 2973 60  0000 C CNN
@@ -1535,7 +1535,7 @@ Wire Wire Line
 Wire Wire Line
 	4000 2700 3950 2700
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_y1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_y1
 U 1 1 6395A3B0
 P 4300 2750
 F 0 "SW_y1" H 4333 2973 60  0000 C CNN
@@ -1563,7 +1563,7 @@ Wire Wire Line
 Wire Wire Line
 	4500 2700 4450 2700
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_u1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_u1
 U 1 1 6395A3C0
 P 4800 2750
 F 0 "SW_u1" H 4833 2973 60  0000 C CNN
@@ -1591,7 +1591,7 @@ Wire Wire Line
 Wire Wire Line
 	5000 2700 4950 2700
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_i1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_i1
 U 1 1 6395A3D0
 P 5300 2750
 F 0 "SW_i1" H 5333 2973 60  0000 C CNN
@@ -1619,7 +1619,7 @@ Wire Wire Line
 Wire Wire Line
 	5500 2700 5450 2700
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_o1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_o1
 U 1 1 6395A3E0
 P 5800 2750
 F 0 "SW_o1" H 5833 2973 60  0000 C CNN
@@ -1647,7 +1647,7 @@ Wire Wire Line
 Wire Wire Line
 	6000 2700 5950 2700
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_p1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_p1
 U 1 1 6395A3F0
 P 6300 2750
 F 0 "SW_p1" H 6333 2973 60  0000 C CNN
@@ -1675,7 +1675,7 @@ Wire Wire Line
 Wire Wire Line
 	6500 2700 6450 2700
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_[1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_[1
 U 1 1 6395A400
 P 6800 2750
 F 0 "SW_[1" H 6833 2973 60  0000 C CNN
@@ -1703,7 +1703,7 @@ Wire Wire Line
 Wire Wire Line
 	7000 2700 6950 2700
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_]1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_]1
 U 1 1 6395A410
 P 7300 2750
 F 0 "SW_]1" H 7333 2973 60  0000 C CNN
@@ -1731,7 +1731,7 @@ Wire Wire Line
 Wire Wire Line
 	7500 2700 7450 2700
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_\1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_\1
 U 1 1 6395A420
 P 7800 2750
 F 0 "SW_\\1" H 7833 2973 60  0000 C CNN
@@ -1757,7 +1757,7 @@ Wire Wire Line
 Wire Wire Line
 	7750 2950 7750 2900
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_q1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_q1
 U 1 1 63968B30
 P 1800 2750
 F 0 "SW_q1" H 1833 2973 60  0000 C CNN
@@ -1783,7 +1783,7 @@ Wire Wire Line
 Wire Wire Line
 	1750 2950 1750 2900
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_s1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_s1
 U 1 1 63992656
 P 2300 3500
 F 0 "SW_s1" H 2333 3723 60  0000 C CNN
@@ -1811,7 +1811,7 @@ Wire Wire Line
 Wire Wire Line
 	2500 3450 2450 3450
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_d1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_d1
 U 1 1 63992666
 P 2800 3500
 F 0 "SW_d1" H 2833 3723 60  0000 C CNN
@@ -1839,7 +1839,7 @@ Wire Wire Line
 Wire Wire Line
 	3000 3450 2950 3450
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_f1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_f1
 U 1 1 63992676
 P 3300 3500
 F 0 "SW_f1" H 3333 3723 60  0000 C CNN
@@ -1867,7 +1867,7 @@ Wire Wire Line
 Wire Wire Line
 	3500 3450 3450 3450
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_g1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_g1
 U 1 1 63992686
 P 3800 3500
 F 0 "SW_g1" H 3833 3723 60  0000 C CNN
@@ -1895,7 +1895,7 @@ Wire Wire Line
 Wire Wire Line
 	4000 3450 3950 3450
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_h1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_h1
 U 1 1 63992696
 P 4300 3500
 F 0 "SW_h1" H 4333 3723 60  0000 C CNN
@@ -1923,7 +1923,7 @@ Wire Wire Line
 Wire Wire Line
 	4500 3450 4450 3450
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_j1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_j1
 U 1 1 639926A6
 P 4800 3500
 F 0 "SW_j1" H 4833 3723 60  0000 C CNN
@@ -1951,7 +1951,7 @@ Wire Wire Line
 Wire Wire Line
 	5000 3450 4950 3450
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_k1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_k1
 U 1 1 639926B6
 P 5300 3500
 F 0 "SW_k1" H 5333 3723 60  0000 C CNN
@@ -1979,7 +1979,7 @@ Wire Wire Line
 Wire Wire Line
 	5500 3450 5450 3450
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_l1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_l1
 U 1 1 639926C6
 P 5800 3500
 F 0 "SW_l1" H 5833 3723 60  0000 C CNN
@@ -2007,7 +2007,7 @@ Wire Wire Line
 Wire Wire Line
 	6000 3450 5950 3450
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_;1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_;1
 U 1 1 639926D6
 P 6300 3500
 F 0 "SW_;1" H 6333 3723 60  0000 C CNN
@@ -2035,7 +2035,7 @@ Wire Wire Line
 Wire Wire Line
 	6500 3450 6450 3450
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_'1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_'1
 U 1 1 639926E6
 P 6800 3500
 F 0 "SW_'1" H 6833 3723 60  0000 C CNN
@@ -2063,7 +2063,7 @@ Wire Wire Line
 Wire Wire Line
 	7000 3450 6950 3450
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_ent1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_ent1
 U 1 1 639926F6
 P 7300 3500
 F 0 "SW_ent1" H 7333 3723 60  0000 C CNN
@@ -2091,7 +2091,7 @@ Wire Wire Line
 Wire Wire Line
 	7500 3450 7450 3450
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_a1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_a1
 U 1 1 63992714
 P 1800 3500
 F 0 "SW_a1" H 1833 3723 60  0000 C CNN
@@ -2117,7 +2117,7 @@ Wire Wire Line
 Wire Wire Line
 	1750 3700 1750 3650
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_x1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_x1
 U 1 1 639AAA63
 P 2300 4250
 F 0 "SW_x1" H 2333 4473 60  0000 C CNN
@@ -2145,7 +2145,7 @@ Wire Wire Line
 Wire Wire Line
 	2500 4200 2450 4200
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_c1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_c1
 U 1 1 639AAA73
 P 2800 4250
 F 0 "SW_c1" H 2833 4473 60  0000 C CNN
@@ -2173,7 +2173,7 @@ Wire Wire Line
 Wire Wire Line
 	3000 4200 2950 4200
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_v1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_v1
 U 1 1 639AAA83
 P 3300 4250
 F 0 "SW_v1" H 3333 4473 60  0000 C CNN
@@ -2201,7 +2201,7 @@ Wire Wire Line
 Wire Wire Line
 	3500 4200 3450 4200
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_b1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_b1
 U 1 1 639AAA93
 P 3800 4250
 F 0 "SW_b1" H 3833 4473 60  0000 C CNN
@@ -2229,7 +2229,7 @@ Wire Wire Line
 Wire Wire Line
 	4000 4200 3950 4200
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_n1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_n1
 U 1 1 639AAAA3
 P 4300 4250
 F 0 "SW_n1" H 4333 4473 60  0000 C CNN
@@ -2257,7 +2257,7 @@ Wire Wire Line
 Wire Wire Line
 	4500 4200 4450 4200
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_m1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_m1
 U 1 1 639AAAB3
 P 4800 4250
 F 0 "SW_m1" H 4833 4473 60  0000 C CNN
@@ -2285,7 +2285,7 @@ Wire Wire Line
 Wire Wire Line
 	5000 4200 4950 4200
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_,1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_,1
 U 1 1 639AAAC3
 P 5300 4250
 F 0 "SW_,1" H 5333 4473 60  0000 C CNN
@@ -2313,7 +2313,7 @@ Wire Wire Line
 Wire Wire Line
 	5500 4200 5450 4200
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_.1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_.1
 U 1 1 639AAAD3
 P 5800 4250
 F 0 "SW_.1" H 5833 4473 60  0000 C CNN
@@ -2341,7 +2341,7 @@ Wire Wire Line
 Wire Wire Line
 	6000 4200 5950 4200
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_/1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_/1
 U 1 1 639AAAE3
 P 6300 4250
 F 0 "SW_/1" H 6333 4473 60  0000 C CNN
@@ -2369,7 +2369,7 @@ Wire Wire Line
 Wire Wire Line
 	6500 4200 6450 4200
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_up1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_up1
 U 1 1 639AAAF3
 P 6800 4250
 F 0 "SW_up1" H 6833 4473 60  0000 C CNN
@@ -2397,7 +2397,7 @@ Wire Wire Line
 Wire Wire Line
 	7000 4200 6950 4200
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_shift2
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_shift2
 U 1 1 639AAB03
 P 7300 4250
 F 0 "SW_shift2" H 7333 4473 60  0000 C CNN
@@ -2425,7 +2425,7 @@ Wire Wire Line
 Wire Wire Line
 	7500 4200 7450 4200
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_z1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_z1
 U 1 1 639AAB21
 P 1800 4250
 F 0 "SW_z1" H 1833 4473 60  0000 C CNN
@@ -2451,7 +2451,7 @@ Wire Wire Line
 Wire Wire Line
 	1750 4450 1750 4400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_ext1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_ext1
 U 1 1 639D7DBE
 P 2300 5050
 F 0 "SW_ext1" H 2333 5273 60  0000 C CNN
@@ -2479,7 +2479,7 @@ Wire Wire Line
 Wire Wire Line
 	2500 5000 2450 5000
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_space1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_space1
 U 1 1 639D7DEE
 P 3800 5050
 F 0 "SW_space1" H 3833 5273 60  0000 C CNN
@@ -2507,7 +2507,7 @@ Wire Wire Line
 Wire Wire Line
 	4000 5000 3950 5000
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_alt2
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_alt2
 U 1 1 639D7E2E
 P 5800 5050
 F 0 "SW_alt2" H 5833 5273 60  0000 C CNN
@@ -2535,7 +2535,7 @@ Wire Wire Line
 Wire Wire Line
 	6000 5000 5950 5000
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_left1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_left1
 U 1 1 639D7E3E
 P 6300 5050
 F 0 "SW_left1" H 6333 5273 60  0000 C CNN
@@ -2563,7 +2563,7 @@ Wire Wire Line
 Wire Wire Line
 	6500 5000 6450 5000
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_down1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_down1
 U 1 1 639D7E4E
 P 6800 5050
 F 0 "SW_down1" H 6833 5273 60  0000 C CNN
@@ -2591,7 +2591,7 @@ Wire Wire Line
 Wire Wire Line
 	7000 5000 6950 5000
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_right1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_right1
 U 1 1 639D7E5E
 P 7300 5050
 F 0 "SW_right1" H 7333 5273 60  0000 C CNN
@@ -2619,7 +2619,7 @@ Wire Wire Line
 Wire Wire Line
 	7500 5000 7450 5000
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_alt1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_alt1
 U 1 1 639D7E7C
 P 1800 5050
 F 0 "SW_alt1" H 1833 5273 60  0000 C CNN
@@ -3175,7 +3175,7 @@ Wire Wire Line
 Wire Wire Line
 	8000 1000 8000 1950
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_bksp1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_bksp1
 U 1 1 6680D716
 P 8300 2000
 F 0 "SW_bksp1" H 8333 2223 60  0000 C CNN
@@ -3216,7 +3216,7 @@ Wire Wire Line
 Wire Wire Line
 	3550 5500 5550 5500
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SW_tab1
+L Keyboard_PCB-rescue:MX-NoLED-MX_Alps_Hybrid SW_tab1
 U 1 1 638FE87A
 P 1300 2750
 F 0 "SW_tab1" H 1333 2973 60  0000 C CNN
