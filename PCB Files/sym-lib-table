@@ -1,4 +1,4 @@
 (sym_lib_table
-  (lib (name SW-Bournes-Pro-Audio)(type Legacy)(uri "C:/Users/Yung Tax Fraud/Documents/KiCad/Downloaded Libraries/KiCAD-Libraries-master/SW-Bournes-Pro-Audio.lib")(options "")(descr ""))
-  (lib (name Keyboard_PCB-rescue)(type Legacy)(uri ${KIPRJMOD}/Keyboard_PCB-rescue.lib)(options "")(descr ""))
+  (lib (name "SW-Bournes-Pro-Audio")(type "Legacy")(uri "C:/Users/Yung Tax Fraud/Documents/KiCad/Downloaded Libraries/KiCAD-Libraries-master/SW-Bournes-Pro-Audio.lib")(options "")(descr ""))
+  (lib (name "Keyboard_PCB-rescue")(type "Legacy")(uri "${KIPRJMOD}/Keyboard_PCB-rescue.lib")(options "")(descr ""))
 )
